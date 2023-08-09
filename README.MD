@@ -10,8 +10,6 @@ These should only be able to work without issue on linux. I do not care about wi
 
 I tolerate criticism. 
 
-## Please read the "what_I_do.md"'s please, do not be confused on what the thing does.
-
 ### Also setup lol
 
 I use Ubuntu, I don't know how to do this on any other distro
