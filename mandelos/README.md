@@ -11,3 +11,7 @@ q: zoom out
 t: b/w mode (slightly faster)
 y: colored mode (slightly slower)
 ```
+
+This does not work on real hardware, as it uses an unofficial video mode extention.
+
+Your mileage may vary, I'm implementing a video mode picker.
